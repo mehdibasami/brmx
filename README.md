@@ -1,7 +1,8 @@
 Privacy Policy
 This privacy policy ("Policy") describes how the personally identifiable information ("Personal Information") you may provide in the "Bodyremix" mobile application ("Mobile Application" or "Service") and any of its related products and services (collectively, "Services") is collected, protected and used. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy is a legally binding agreement between you ("User", "you" or "your") and Stashbox Ltd ("Stashbox Ltd", "we", "us" or "our"). By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Policy. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-Data we collect
+Data we collect 
+
 You can access and use the Mobile Application and Services without telling us who you are or revealing any information by which someone could identify you as a specific, identifiable individual. In this instance, your device ID is used to backup and restore recipes, meal plans and shopping lists. If, however, you wish to use some of the features in the Mobile Application, you may be asked to provide certain Personal Information (for example, your name and e-mail address). We receive and store any information you knowingly provide to us when you create an account, publish content, make a purchase, or fill any online forms in the Mobile Application. When required, this information may include the following:
 
 Contact details: including your name, email address and the content of any correspondence between you and us.
@@ -16,19 +17,24 @@ When you use the Mobile Application, our servers automatically record informatio
 How we use your data
 We may use the data you provide to us for the following purposes:
 
+
 Provide you with our services and maintain them Perform data analytics to understand trends To make suggestions about fitness and products that we think will match your preferences To send you news, special offers and marketing Review and improve our services Defend ourselves against legal claims Improve products and services Respond to inquiries and offer support
 
 Information collected automatically is used only to identify potential cases of abuse and establish statistical information regarding the usage of the Mobile Application and Services.
 
 Some usage statistics are store on third-party service providers. This statistical information is not otherwise aggregated in such a way that would identify any particular user of the system. Link to privacy policy of third party service providers used by the app:
 
+
 Google Play Services
 Google Analytics for Firebase
 Firebase Crashlytics
 Billing and payments
+
+
 In case of services requiring payment, we request credit card or other payment account information, which will be used solely for processing payments. Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted. All direct payment gateways adhere to the latest security standards as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. Sensitive and private data exchange happens over a SSL secured communication channel and is encrypted and protected with digital signatures, and the Mobile Application and Services are also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users. Scans for malware are performed on a regular basis for additional security and protection.
 
 Disclosure of information
+
 Depending on the requested Services or as necessary to complete any transaction or provide any service you have requested, we may share your information with your consent with our trusted third parties that work with us, any other affiliates and subsidiaries we rely upon to assist in the operation of the Mobile Application and Services available to you. We do not share Personal Information with unaffiliated third parties. These service providers are not authorized to use or disclose your information except as necessary to perform services on our behalf or comply with legal requirements. We may share your Personal Information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to Personal Information. These third parties are given Personal Information they need only in order to perform their designated functions, and we do not authorize them to use or disclose Personal Information for their own marketing or other purposes.
 
 We will disclose any Personal Information we collect, use or receive if required or permitted by law, such as to comply with a subpoena, or similar legal process, and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
@@ -36,9 +42,11 @@ We will disclose any Personal Information we collect, use or receive if required
 In the event we go through a business transition, such as a merger or acquisition by another company, or sale of all or a portion of its assets, your user account, and Personal Information will likely be among the assets transferred.
 
 Retention of information
+
 We will retain and use your Personal Information for the period necessary to comply with our legal obligations, resolve disputes, and enforce our agreements unless a longer retention period is required or permitted by law. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. Once the retention period expires, Personal Information shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after the expiration of the retention period.
 
 Transfer of information
+
 Depending on your location, data transfers may involve transferring and storing your information in a country other than your own. You are entitled to learn about the legal basis of information transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by us to safeguard your information. If any such transfer takes place, you can find out more by checking the relevant sections of this Policy or inquire with us using the information provided in the contact section.
 
 The rights of users
