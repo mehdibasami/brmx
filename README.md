@@ -1,5 +1,5 @@
 Privacy Policy
-This privacy policy ("Policy") describes how the personally identifiable information ("Personal Information") you may provide in the "Bodyremix" mobile application ("Mobile Application" or "Service") and any of its related products and services (collectively, "Services") is collected, protected and used. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy is a legally binding agreement between you ("User", "you" or "your") and Stashbox Ltd ("Stashbox Ltd", "we", "us" or "our"). By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Policy. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
+This privacy policy ("Policy") describes how the personally identifiable information ("Personal Information") you may provide in the "Bodyremix" mobile application ("Mobile Application" or "Service") and any of its related products and services (collectively, "Services") is collected, protected and used. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy is a legally binding agreement between you ("User", "you" or "your") and Bodyremix Ltd ("Bodyremix Ltd", "we", "us" or "our"). By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Policy. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
 Data we collect 
 
@@ -96,6 +96,6 @@ Acceptance of this policy
 You acknowledge that you have read this Policy and agree to all its terms and conditions. By accessing and using the Mobile Application and Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to access or use the Mobile Application and Services.
 
 Contacting us
-If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to individual rights and your Personal Information, you may send an email to hello@stashcook.com.
+If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to individual rights and your Personal Information, you may send an email to mehdibasamidev@gmail.com.
 
 This document was last updated on Nov 2, 2021
